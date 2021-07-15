@@ -1,0 +1,9 @@
+google_api_python_client
+google
+google_auth_oauthlib
+moviepy
+newsapi-python
+urllib3
+gTTS
+mutagen
+Pillow
